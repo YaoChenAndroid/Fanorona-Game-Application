@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FanoronaYc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_title">Fanorona</string>    
+    
+    <string name="wrong_piece">Please pick up your piece!</string>    
+    <string name="black_win">Black player win the game!</string> 
+    <string name="white_win">White player win the game!</string> 
+</resources>
